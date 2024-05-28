@@ -1,5 +1,14 @@
 ## Hi there 👋
+# ✨Mirko Di Maggio✨
+## 'Digital SelfMan (Developer/BasketBallPlayer/AIstudent)'
+👋 Hi there! I'm Mirko, a student at Politecnico di Torino, diving deep into the fascinating world of artificial intelligence for my master's degree. 🎓 With a solid foundation in computer engineering from my bachelor's degree, I'm always on the lookout for new technological challenges.
 
+🇮🇹 Born and raised in Italy, I'm passionate about all things tech, from software development to robotics, and I love exploring new innovations in AI. When I'm not knee-deep in code, you can find me on the basketball court 🏀, hitting the gym, or playing a friendly soccer match with friends. I'm super sociable and love connecting with new people to share ideas and projects.
+
+Follow me to check out my latest projects, open-source contributions, and maybe a few fun anecdotes from the worlds of tech and sports! 🚀
+---
+### Languages and Tools
+<img 
 <!--
 **MirkoDiMa/MirkoDiMa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
