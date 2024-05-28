@@ -18,7 +18,9 @@ Follow me to check out my latest projects, open-source contributions, and maybe 
 <img align="left" alt="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
 #
+
 ### Stats
 ![MirkoDiMa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MirkoDiMa&show_icons=true&theme=gruvbox)
 
