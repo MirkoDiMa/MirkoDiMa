@@ -2,7 +2,7 @@
 
 # ✨Mirko Di Maggio✨
 
-## 'Digital SelfMan (Developer/BasketBallPlayer/AIstudent)'
+**'Digital SelfMan (Developer/BasketBallPlayer/AIstudent)'**
 
 👋 Hi there! I'm Mirko, a student at Politecnico di Torino, diving deep into the fascinating world of artificial intelligence for my master's degree. 🎓 With a solid foundation in computer engineering from my bachelor's degree, I'm always on the lookout for new technological challenges.
 
